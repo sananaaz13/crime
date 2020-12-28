@@ -1,0 +1,121 @@
+/*----Applied to all Pages-------*/
+
+   /*Nav*/
+   .nav-link{
+   	color: white;
+
+   }
+   #navigation{
+   	background-color: #004080;
+   }
+   /*Header*/
+  .aligned { 
+  	display: flex; 
+  	align-items: center; 
+  } 
+
+  span { 
+  	padding: 15px; 
+  }  
+  #text{
+  	text-align: center;
+  	font-family: 'calibri';
+  	font-size: 30px;
+  	color: #004080;
+  	font-weight: bold;
+  	margin-left: 130px;
+  }
+  #image1{
+  	 width:300px;
+  	 height:150px;
+  }
+  #image2{
+  	margin-left: 150px;
+  	width:200px;
+  	height:100px;
+  }
+
+  /*buttons*/
+  .btn{
+  	background-color:#004080;
+  	color: white;
+ 
+  }
+  /*Footer*/
+  footer{
+  	background-color: #31404f;
+  }
+
+
+/*---Home----*/
+ .content{
+     margin-left: 40px;
+     margin-right: 40px;
+     margin-top: 30px;
+  }
+  #log1{
+      margin-left: 600px;
+      margin-bottom: 30px;
+  }
+/*About Us*/
+  .abouttext1{
+  	font-family: 'calibri';
+  	font-weight: bold;
+    text-align: center;
+  }
+  .abouttext2{
+  	font-family: 'calibri';
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+/*Services*/
+
+/*Registration*/
+
+   .forms{
+      margin-left: 140px;
+      margin-top: 60px;
+   }
+
+   #reg{
+   	margin-left: 500px;
+   	margin-top: 30px;
+   }
+
+   .form-label{
+   	color: black;
+   	font-family: 'calibri';
+   	font-weight: bold;
+   }
+/*Login*/
+	.forms1{
+      margin-left: 550px;
+      margin-top: 60px;
+   }
+   #reg1{
+   	margin-left: 600px;
+   	margin-top: 30px;
+   }
+	
+	
+
+/*Contact Us*/
+   .abouttext{
+   	font-family: 'calibri';
+  	font-weight: bold;
+    text-align: center;
+   }
+/*View*/
+
+
+/*About Us, Services ,Contact us*/
+  .abouttext1{
+  	font-family: 'calibri';
+  	font-weight: bold;
+    text-align: center;
+  }
+  .abouttext2{
+  	font-family: 'calibri';
+    margin-left: 30px;
+    margin-right: 30px;
+  }
